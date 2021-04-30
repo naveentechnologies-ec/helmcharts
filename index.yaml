@@ -3,7 +3,7 @@ entries:
   javawebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-29T20:34:09.626560671Z"
+    created: "2021-04-30T17:27:02.522930654Z"
     description: A Helm chart for Kubernetes
     digest: 5d2902495f2c445fd2afbedf97805d250d7182f561e1007122bd3dc862bd5302
     name: javawebapp
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://naveentechnologies-ec.github.io/helmcharts/javawebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-29T20:34:09.624653576Z"
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-30T17:27:02.523615716Z"
+    description: A Helm chart for Kubernetes
+    digest: 5c415623566080d9e351e84387698d08dfe1b297c32f7ee09e1a42a54b2e3624
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://naveentechnologies-ec.github.io/helmcharts/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-30T17:27:02.522118919Z"
